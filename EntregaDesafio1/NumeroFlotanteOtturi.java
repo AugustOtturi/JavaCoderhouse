@@ -2,7 +2,7 @@ package EntregaDesafio1;
 
 //Classe
 public class NumeroFlotanteOtturi {
-    //Se crea el método
+    //Método
     public static void main(String[] args) {
         //Entero
         int numeroUno= 25;
