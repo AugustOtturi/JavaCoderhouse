@@ -9,6 +9,7 @@ public class NumeroFlotanteOtturi {
         //Variable del numero float
         float numeroEntero2 = numeroEntero;
 
+        //Se imprimen por consola los resultados
         System.out.println("El numero entero es: " + numeroEntero );
         System.out.println("El numero float es: " + numeroEntero2 );
 
